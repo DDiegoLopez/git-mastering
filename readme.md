@@ -1,5 +1,5 @@
-## Heyooo, welcome to the guide 👻
+## welcome. to git!! 👻
 
-youu, el mike here
+this is comming from dev me 
 
 im adding this from `feature/branch`
